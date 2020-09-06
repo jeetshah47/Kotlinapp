@@ -5,6 +5,7 @@ To install on your device just download the app-debug.apk
 ## To work with project
 If you want to work with the project the follow this steps.
 * Clone repository use ``` git clone ```
-* In android studio go to File > New > Import Project and locate the downloaded files 
-![Image of Application]
+* In android studio go to File > New > Import Project and locate the downloaded files
+
+![Image of Application](https://ibb.co/kS5VqYN)
 Contributions are always welcome:)
