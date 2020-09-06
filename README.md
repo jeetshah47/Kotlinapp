@@ -2,6 +2,8 @@
 My first android app written in kotlin!!
 ## Installation on device
 To install on your device just download the app-debug.apk
+<br> <a href = "https://github.com/jeetshah47/Kotlinapp/blob/master/app-debug.apk" download>
+ APK </a>
 ## To work with project
 If you want to work with the project the follow this steps.
 * Clone repository use ``` git clone ```
