@@ -7,5 +7,5 @@ If you want to work with the project the follow this steps.
 * Clone repository use ``` git clone ```
 * In android studio go to File > New > Import Project and locate the downloaded files
 
-![Image of Application](https://ibb.co/kS5VqYN)
+![Image of Application]()
 Contributions are always welcome:)
