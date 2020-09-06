@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlinapp</string>
+    <string name="click">Roll!</string>
+    <string name="text">HI there</string>
+</resources>
